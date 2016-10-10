@@ -1,4 +1,4 @@
-# React Native Camera Example
+# React Native Camera example
 
 A react native example that uses the react-native-camera npm's package
 
@@ -13,6 +13,10 @@ Run project on iOS and Android with:
 react-native run-ios
 
 react-native run-android
+
+## Other examples
+
+[React Native examples and complete example list](https://github.com/guilhermebruzzi/rnExamples/)
 
 ## License
 
